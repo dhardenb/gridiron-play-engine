@@ -1,0 +1,15 @@
+{
+  "name": "gridiron-play-engine",
+  "version": "1.0.1",
+  "description": "Creates detailed play results for American style football plays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "David Hardenbrook <davehardenbrook@yahoo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
